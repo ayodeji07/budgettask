@@ -2,7 +2,7 @@ budget_food = 0
 budget_clothing = 0
 budget_entertainment = 0
 
-balance = [0, 0, 0]
+balance = [budget_food, budget_clothing, budget_entertainment]
 balance[0] += budget_food
 balance[1] += budget_clothing
 balance[2] += budget_entertainment
